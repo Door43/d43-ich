@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ich:home|Door43 (ich)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ich|d43-ich repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ich/archive/master.zip|d43-ich.zip]]
+
+**Recent Changes**
+{{changes>ns = ich}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ich|Ethnologue data]]
+
